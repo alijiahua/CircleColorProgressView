@@ -17,7 +17,7 @@
 ## 二.其次在dependencies中添加：
 <pre><code>
 dependencies {
-    compile 'com.github.alijiahua:ColorCircleProgressView:V1.0'
+    compile 'com.github.alijiahua:CircleColorProgressView:V1.0'
 }
 </code></pre>
 
