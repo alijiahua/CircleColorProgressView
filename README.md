@@ -89,7 +89,7 @@ dependencies {
 6.编写滑动监听接口
 
 ## 六.参考效果图：
-![](https://github.com/alijiahua/Image/blob/master/circleCorlorBg.png)
+![](https://github.com/alijiahua/CircleColorProgressView/blob/master/savaimg/circleCorlorBg.png)
 
 
 ## 七.CSDN博客地址：http://blog.csdn.net/alijiahua 
