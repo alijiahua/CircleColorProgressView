@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EE7B1D</color>
+    <color name="colorPrimaryDark">#C65D00</color>
+    <color name="colorAccent">#EE7B1D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="guide_progress_bg">#E87B20</color>
+    <color name="gray_bg">#7A7A7A</color>
+    <color name="gray_det_bg">#A2A2A2</color>
+    <color name="home01">#BC54F3</color>
+    <color name="home02">#3D93EA</color>
+    <color name="home03">#FF9203</color>
+    <color name="home04">#7BAB55</color>
+    <color name="home05">#3D93EA</color>
+    <color name="home06">#F6821F</color>
+    <color name="home07">#5DAE45</color>
+    <color name="home08">#007ACF</color>
+    <color name="home09">#FF9203</color>
+    <color name="home10">#BC54F3</color>
+    <color name="home99">#00FFFFFF</color>
+</resources>
