@@ -18,7 +18,7 @@
 
 <pre><code>
 dependencies {
-    compile 'com.github.alijiahua:CircleColorProgressView:V1.0'
+    compile 'com.github.lmiot:CircleColorProgressView:V1.0'
 }
 </code></pre>
 
