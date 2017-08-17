@@ -94,6 +94,4 @@ dependencies {
 ![](https://github.com/alijiahua/CircleColorProgressView/blob/master/savaimg/circleCorlorBg.png)
 
 
-## 七.CSDN博客地址：http://blog.csdn.net/alijiahua 
 
-附:本人首个开源项目，如果不足之处，敬请指教！
